@@ -13,7 +13,7 @@ public class HomeWork {
         System.out.println(today);
 
         List<Car> carList = new ArrayList<>();
-        carList.add(new Car("Audi",2019,60000));//zjz
+        carList.add(new Car("Audi",2019,60000));
         carList.add(new Car("Volkswagen",2022,45000));
         carList.add(new Car("Bentley",2020,100000));
 
