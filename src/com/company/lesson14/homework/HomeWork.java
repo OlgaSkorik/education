@@ -23,8 +23,9 @@ public class HomeWork {
 
 
 
-        Stream<String> stream = Stream.of("Level", "java", "noon", "pen", "dad");
-        stream.filter(element -> element.equalsIgnoreCase(new StringBuilder(element).reverse().toString()))
+        Stream<String> stream = Stream.of("Level ", "java", "noon", "pen", "dad");
+        stream.filter(element -> element.trim().equalsIgnoreCase(new StringBuilder(element.trim())
+                .reverse().toString()))
                 .forEach(System.out::println);
 
     }
