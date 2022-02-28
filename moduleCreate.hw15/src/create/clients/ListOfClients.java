@@ -1,11 +1,10 @@
-package create_clients;
+package create.clients;
 
-import java.io.Serializable;
 import java.util.List;
 
-public class ListOfClients implements Serializable {
+public class ListOfClients {
     public static List<Clients> getList() {
-        return List.of(new Clients("Alex", 25,"teacher"),
+        return List.of(new Clients("Alex", 35,"teacher"),
                 new Clients("Nic", 53, "president"),
                 new Clients("Den", 41, "judge"));
     }

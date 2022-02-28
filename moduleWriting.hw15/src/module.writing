@@ -1,0 +1,6 @@
+module writing {
+
+    requires clients;
+
+    exports clients.writing;
+}

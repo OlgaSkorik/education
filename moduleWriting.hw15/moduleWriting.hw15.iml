@@ -7,7 +7,6 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="hw15_moduleWriting" />
-    <orderEntry type="module" module-name="hw15_moduleCreate" />
+    <orderEntry type="module" module-name="moduleCreate.hw15" />
   </component>
 </module>

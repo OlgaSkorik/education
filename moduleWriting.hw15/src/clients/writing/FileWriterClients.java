@@ -1,6 +1,6 @@
-package clients_writing;
+package clients.writing;
 
-import create_clients.ListOfClients;
+import create.clients.ListOfClients;
 
 import java.io.FileOutputStream;
 import java.io.IOException;

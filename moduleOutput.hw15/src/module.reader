@@ -1,0 +1,7 @@
+module reader {
+
+    requires clients;
+    requires writing;
+
+    exports clients.reader;
+}

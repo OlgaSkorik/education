@@ -3,9 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/file_writer/file_writer.iml" filepath="$PROJECT_DIR$/file_writer/file_writer.iml" />
-      <module fileurl="file://$PROJECT_DIR$/hw15_moduleCreate/hw15_moduleCreate.iml" filepath="$PROJECT_DIR$/hw15_moduleCreate/hw15_moduleCreate.iml" />
-      <module fileurl="file://$PROJECT_DIR$/hw15_moduleOutput/hw15_moduleOutput.iml" filepath="$PROJECT_DIR$/hw15_moduleOutput/hw15_moduleOutput.iml" />
-      <module fileurl="file://$PROJECT_DIR$/hw15_moduleWriting/hw15_moduleWriting.iml" filepath="$PROJECT_DIR$/hw15_moduleWriting/hw15_moduleWriting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/moduleCreate.hw15/moduleCreate.hw15.iml" filepath="$PROJECT_DIR$/moduleCreate.hw15/moduleCreate.hw15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/moduleOutput.hw15/moduleOutput.hw15.iml" filepath="$PROJECT_DIR$/moduleOutput.hw15/moduleOutput.hw15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/moduleWriting.hw15/moduleWriting.hw15.iml" filepath="$PROJECT_DIR$/moduleWriting.hw15/moduleWriting.hw15.iml" />
       <module fileurl="file://$PROJECT_DIR$/untitled104.iml" filepath="$PROJECT_DIR$/untitled104.iml" />
     </modules>
   </component>

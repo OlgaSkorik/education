@@ -1,4 +1,4 @@
-package create_clients;
+package create.clients;
 
 import java.io.Serializable;
 

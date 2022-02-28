@@ -1,9 +1,12 @@
-package clients_reader;
+package clients.reader;
 
-import create_clients.Clients;
+import create.clients.Clients;
 
-import java.io.*;
-import java.util.*;
+import java.io.FileInputStream;
+import java.io.IOException;
+import java.io.ObjectInputStream;
+import java.util.ArrayList;
+import java.util.List;
 
 public class FileReaderClients {
 
@@ -14,9 +17,9 @@ public class FileReaderClients {
                 newList.add((Clients) objectReader.readObject());
             }
         } catch (IOException | ClassNotFoundException e) {
-                    e.getCause();
-                }
-                newList
-                        .forEach(System.out::println);
+            e.toString();
+        }
+        newList
+                .forEach(System.out::println);
     }
 }

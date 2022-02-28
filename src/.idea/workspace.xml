@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2977d913-6060-407e-98e1-85e46aba7ba5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../moduleCreate.hw15/src/module.clients" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../moduleOutput.hw15/src/module.reader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../moduleWriting.hw15/src/module.writing" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw15.listOfClients.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../hw15.listOfClients.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw15_moduleCreate/hw15_moduleCreate.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../moduleCreate.hw15/moduleCreate.hw15.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw15_moduleCreate/src/create_clients/Clients.java" beforeDir="false" afterPath="$PROJECT_DIR$/../moduleCreate.hw15/src/create/clients/Clients.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw15_moduleCreate/src/create_clients/ListOfClients.java" beforeDir="false" afterPath="$PROJECT_DIR$/../moduleCreate.hw15/src/create/clients/ListOfClients.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw15_moduleCreate/src/module-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw15_moduleOutput/hw15_moduleOutput.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../moduleOutput.hw15/moduleOutput.hw15.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw15_moduleOutput/src/clients_reader/FileReaderClients.java" beforeDir="false" afterPath="$PROJECT_DIR$/../moduleOutput.hw15/src/clients/reader/FileReaderClients.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw15_moduleOutput/src/module-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw15_moduleWriting/hw15_moduleWriting.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../moduleWriting.hw15/moduleWriting.hw15.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw15_moduleWriting/src/clients_writing/FileWriterClients.java" beforeDir="false" afterPath="$PROJECT_DIR$/../moduleWriting.hw15/src/clients/writing/FileWriterClients.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw15_moduleWriting/src/module-info.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="25kW3auL401ATiWSKUPuqtCv5p0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2977d913-6060-407e-98e1-85e46aba7ba5" name="Changes" comment="" />
+      <created>1646071366741</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1646071366741</updated>
+    </task>
+    <servers />
+  </component>
+</project>
