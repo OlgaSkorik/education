@@ -1,6 +1,6 @@
 module writing {
 
-    requires clients;
+    requires transitive clients;
 
     exports clients.writing;
 }
