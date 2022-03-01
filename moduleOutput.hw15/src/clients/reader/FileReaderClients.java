@@ -2,6 +2,7 @@ package clients.reader;
 
 import create.clients.Clients;
 
+import java.io.EOFException;
 import java.io.FileInputStream;
 import java.io.IOException;
 import java.io.ObjectInputStream;
@@ -16,8 +17,10 @@ public class FileReaderClients {
             while (true) {
                 newList.add((Clients) objectReader.readObject());
             }
+        } catch (EOFException ex) {
+            System.out.println("End");
         } catch (IOException | ClassNotFoundException e) {
-            e.toString();
+            e.printStackTrace();
         }
         newList
                 .forEach(System.out::println);
